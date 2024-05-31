@@ -1,4 +1,4 @@
-# dental
+# dentals
 class DentalOffice:
     def __init__(self):
         self.schedule = {}
